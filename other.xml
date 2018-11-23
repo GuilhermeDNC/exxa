@@ -1,0 +1,13 @@
+<application>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="C:\Python36\Integral\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Python36\ML\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Python36\exxa\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\TesteRapido\venv\Scripts\python.exe" value="false" />
+        <entry key="C:\Users\guilherme.santanna\PycharmProjects\EX001\venv\Scripts\python.exe" value="false" />
+      </map>
+    </option>
+  </component>
+</application>
